@@ -1,0 +1,19 @@
+{
+    "city_name": "İstanbul",
+    "update": 1727565600,
+    "current_temp": 29,
+    "current_humidity": 55,
+    "current_weather": "Güneşli",
+    "today_weather": "Güneşli",
+    "today_temp_low": 25,
+    "today_temp_hig": 32,
+    "current_wind": "Kuzeydoğu 12 km/h",
+    "current_aq": 80,
+    "current_aq_desc": "Orta",
+    "tomorrow_weather": "Parçalı Bulutlu",
+    "tomorrow_temp_low": 26,
+    "tomorrow_temp_hig": 31,
+    "tomorrow_wind": "Güneydoğu 10 km/h",
+    "tomorrow_aq": 70,
+    "tomorrow_aq_desc": "İyi"
+}
